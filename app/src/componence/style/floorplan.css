@@ -1,0 +1,51 @@
+.tabs-container {
+    display: flex;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  .tab {
+    padding: 5px 20px;
+    border-bottom: 1px solid gray;
+    font-weight: normal;
+    font-family: 'Poppins', serif;
+    transition: all 0.3s ease;
+  }
+  
+  .tab.active {
+    border-bottom: 2px solid black;
+    font-family: 'Poppins', serif;
+  }
+
+  .contentcontainer {
+    padding: 20px;
+  }
+  
+  .floorplan-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+    position: relative;
+  }
+  
+  .arrow-button {
+    background: none;
+    border: none;
+    font-size: 32px;
+    cursor: pointer;
+    margin: 0 10px;
+    color: #333;
+  }
+  
+  .arrow-button:hover {
+    color: #D6CC7E;
+  }
+  
+  .floorplan {
+    max-width: 100%;
+    max-height: 30vh;
+    object-fit: contain;
+    display: block;
+  }
+  

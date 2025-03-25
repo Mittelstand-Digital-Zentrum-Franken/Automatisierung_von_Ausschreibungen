@@ -1,0 +1,68 @@
+body {
+  background: linear-gradient(135deg, #f0f0f0, #d4d4d4); /* Sanfter Farbverlauf */
+  background-attachment: fixed; /* Hintergrund bleibt fixiert */
+  font-family: 'Poppins', sans-serif;
+  margin: 0px;
+}
+
+/* Optional: Dezentes Muster hinzufügen */
+body::before {
+  content: "";
+  position: relative;
+  top: 0;
+  left: 0;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.2) 1px, transparent 1px);
+  background-size: 10px 10px;
+  z-index: -1;
+  opacity: 0.3;
+}
+
+.App {
+  display: flex;
+  height: 100vh;
+  position: relative;
+  font-family: 'Poppins', serif;
+  background-color: #F3EDE5;
+}
+
+.content {
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  padding: 10px;
+}
+
+.column {
+  flex: 1;
+}
+
+.column:first-child {
+  display: flex;
+  flex-direction: column;
+}
+
+.column:last-child {
+  display: flex;
+  flex-direction: column;
+}
+
+.contentcontainer {
+  border-radius: 10px;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
+  background-color: #FBFBFB;
+  position: relative;
+  padding-left: 3%;
+  padding-right: 3%;
+  height: 50vh;
+}
+
+.contentcontainer:first-child {
+  margin-bottom: 1%;
+}
+
+.scroll-container{
+  position: absolute;
+  height: 75%;
+  padding-right: 1%;
+  overflow-y: scroll;
+}

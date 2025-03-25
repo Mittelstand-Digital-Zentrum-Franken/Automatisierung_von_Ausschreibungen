@@ -1,0 +1,27 @@
+.table-container {
+    position: relative;
+  }
+  
+  table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    table-layout: auto;
+  }
+  
+  th, td {
+    padding: 8px;
+    word-wrap: break-word;
+    border: 1px solid #ddd;
+    text-align: left;
+    font-size: 12px;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
+  td p {
+    margin: 0;
+  }
+  

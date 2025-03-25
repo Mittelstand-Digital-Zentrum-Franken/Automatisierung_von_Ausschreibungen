@@ -1,0 +1,47 @@
+hr{
+  margin: 0%;
+}
+
+.headline{
+    display: flex;
+    align-items: center;
+    padding-bottom: 1%;
+    font-family: 'Poppins', serif;
+    justify-content: space-between;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .download {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+  }
+  
+  .hover-text {
+    display: none;
+    position: absolute;
+    top: 40px;
+    left: 10%;
+    transform: translateX(-50%);
+    background: linear-gradient(135deg, #808080, #e2e7eb);
+    color: black;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 10px;
+    z-index: 90;
+  }
+  
+  .image-container:hover .hover-text {
+    display: block;
+  }
+
+.headlinetext{
+  margin: 0%;
+  font-family: 'Poppins', serif;
+  font-weight: 400;
+}
