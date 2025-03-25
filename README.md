@@ -65,7 +65,7 @@ Die Erstellung von Ausschreibungen für Büroeinrichtungen ist ein aufwendiger P
 <h1>User Interfaces</h1>
 Zur einfachen Interaktion mit den im backend erstellten automatisierungspipelines wurde ein nutzerfreundliches Userinterface erstellt.
 
-<img src="images/Interface.png" alt="Markdownify" width="500">
+<img src="images/Interface.png" alt="Markdownify">
 
 
 
