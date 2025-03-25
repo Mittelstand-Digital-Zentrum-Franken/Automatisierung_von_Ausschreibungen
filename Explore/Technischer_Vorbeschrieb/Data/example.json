@@ -1,0 +1,476 @@
+[
+    {
+        "role": "system",
+        "content": [
+            "Allgemein:",
+            "Gefordert ist ein gepolsterter Einsitzer mit einem ergonomisch geformten Tablar, wählbar rechts oder links positioniert, der als flexibler Arbeitsplatz fungieren kann.",
+            "Das Tablar muss optional mit Strom, USB oder Wireless Charger ausgestattet werden können.",
+            "Etwaige Elektrifizierungskomponenten müssen sicher in einer Box unter dem Tablar verstaut werden können, mit einfachem Zugang.",
+            "Das Tablar soll in fünf verschiedenen Ausführungen in Melamin, MDF pulverbeschichtet oder furniert wählbar sein.",
+            "Zwei Höhen, ca. 940 mm und ca. 1360 mm, sollen zur Auswahl stehen.",
+            "Das Produkt soll einen effizienten Footprint bieten und eine hohe akustische Wirkung haben.",
+            "Es soll visuell abschirmen, eine Raum-bildende Wirkung haben und vielfältige Möglichkeiten für Open-Space-Office-Layouts als Teil einer größeren Produktfamilie bieten.",
+            "Das Produkt sollte in Open Space Offices, in Bibliotheken und in anderen semi-öffentlichen oder öffentlichen Räumen verwendet werden."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Korpus:",
+            "Alle Einstellungen sollen einfach und intuitiv in sitzender Position vorzunehmen sein.",
+            "Die Paneele sollen mit einem Bezug mit untersteppter Polyesterwatte umhüllt sein, mit dekorativen Steppnähten, die horizontal und parallel im Abstand von etwa 13 cm verlaufen.",
+            "Die Rücken- und Seitenpaneele sollen über Reißverschlüsse reversibel miteinander verbunden sein, wobei die horizontalen Steppnähte der einzelnen Paneele auf gleicher Höhe zusammentreffen sollen.",
+            "Die Paneele sollen schlank gehalten sein, um ein Maximum an Innenraum in Relation zum Außenmaß zu gewährleisten.",
+            "Der Korpus soll in zwei Höhen verfügbar sein: niedrige Version mit ca. 940 mm und hohe Version mit ca. 1360 mm."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Untergestell:",
+            "Das Untergestell muss ein Stahlrohr (wahlweise Glanzchrom oder Pulverbeschichtung) sein, welches die Füße und einen Rahmen um den gesamten Korpus darstellt.",
+            "Die Füße sollen Gleiter haben, mit optional wählbaren arretierbaren Rollen.",
+            "Die Tragstruktur der Polsterung soll aus einem Metallrahmen bestehen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Polsterung:",
+            "Das Produkt soll eine kompakte Polsterung für tischorientiertes Arbeiten haben, mit einer eingesessenen Sitzhöhe von 385 mm nach EN 1335-1.",
+            "Der Metallrahmen der Tragstruktur sollte eine MDF-Bodenplatte enthalten.",
+            "Sitz- und Rückenkissen sollen aus Polyurethanschaum und Polyesterwatte gefertigt sein.",
+            "Alle Sitz- und Rückenkissen müssen lose aufliegen und dürfen nicht fest mit dem Korpus verbunden sein.",
+            "Die Bezüge sollen mit Polsterwatte untersteppt sein, abgenommen und ausgetauscht werden können, ohne Verklebung oder Klammern."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Bezugsstoff:",
+            "Es sollen unterschiedliche Bezugsstoffe zur Auswahl stehen.",
+            "Der Bezug muss eine Scheuerfestigkeit von mindestens 40.000 Touren haben.",
+            "Er muss eine Reibechtheit (trocken/nass) von mindestens 4-5, eine Lichtechtheit Typ 6 und ein Pilling von mindestens 4-5 erfüllen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Service und Nachhaltigkeit:",
+            "Alle relevanten Produktkomponenten müssen als Ersatzteile verfügbar sein.",
+            "Das Unternehmen muss über ein nach DIN EN ISO 9001 und DIN EN ISO 14001 zertifiziertes Qualitäts- und Umweltmanagementsystem verfügen.",
+            "Zudem muss ein Nachhaltigkeitsbericht des Unternehmens vorgelegt werden können."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Allgemein:",
+            "Das Unternehmen muss über ein nach DIN EN ISO 9001 und DIN EN ISO 14001 zertifiziertes Qualitäts- und Umweltmanagementsystem verfügen.",
+            "Gefordert ist ein Stuhl mit Netzrücken, der wirtschaftlich, ökologisch und langlebig ist.",
+            "Alle Einstellungen sollen einfach und intuitiv in sitzender Position vorzunehmen sein.",
+            "Die Bedienungsanleitung muss jedem Stuhl beiliegen und digital zur Verfügung stehen.",
+            "Der Stuhl muss eine hohe Verarbeitungsqualität aufweisen und soll aus jedem Blickwinkel – auch von unten – aufgeräumt erscheinen.",
+            "Es dürfen keine Kabel offenliegen.",
+            "Der Stuhl muss möglichst leicht sein und darf nicht über 17 Kilogramm wiegen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Mechanik:",
+            " Der Stuhl soll über eine Synchronmechanik mit individueller Anpassung der Rückenlehnen-Gegenkraft verfügen.",
+            "Der Stuhl soll einen sanften, stufenlosen Ablauf haben, der dynamisches Sitzen fördert.",
+            "Der Öffnungswinkel zwischen Sitz und Rückenlehne soll eine Maximalbewegung von mindestens 116° aufweisen (gemessen von der Horizontalen)."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Sitz:",
+            "Der Sitz muss in Höhe, Tiefe und Neigung einstellbar sein.",
+            "Die Sitzhöhe soll sich zwischen mindestens 400 mm und maximal 510 mm einstellen lassen.",
+            "Die Sitztiefe muss um mindestens 50 mm verstellbar sein.",
+            "Die Sitzneigung soll in mindestens drei Stufen einstellbar sein, wobei die vordere Kante leicht abgesenkt werden kann."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Rückenlehne:",
+            "Die Rückenlehne muss mindestens 530 mm hoch sein.",
+            "Sie soll ergonomisch geformt sein und im Bereich der Lendenwirbelsäule eine individuell einstellbare Stütze bieten.",
+            "Das Rückenelement soll ein atmungsaktives Netzmaterial aufweisen.",
+            "Es muss möglich sein, die Rückenlehne in einer permanent beweglichen Position zu belassen, um dynamisches Sitzen zu unterstützen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Armlehnen:",
+            "Die Armlehnen sollen 3D-verstellbar sein: in der Höhe, Breite und Tiefe.",
+            "Die Oberflächen der Armlehnen müssen weich und hautfreundlich sein, aus Polyurethan oder einem ähnlichen Material.",
+            "Die Breitenverstellung der Armlehnen soll so ausgeführt sein, dass die Einstellungsmechanismen optisch verborgen sind."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Rollen und Gleiter:",
+            "Der Stuhl soll sowohl mit harten Rollen für Teppichböden als auch mit weichen Rollen für harte Böden ausgestattet werden können.",
+            "Optional müssen Gleiter verfügbar sein, die werkzeuglos montiert werden können.",
+            "Die Rollen müssen nach DIN EN 12529 zertifiziert sein und leichtgängig arbeiten."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Materialien:",
+            "Alle verwendeten Materialien müssen hochwertig und umweltfreundlich sein.",
+            "Die Kunststoffe sollen recyclingfähig sein und die Metalle rostfrei bzw. entsprechend beschichtet sein.",
+            "Die Lackierungen und Beschichtungen müssen lösemittelfrei oder mit reduziertem Lösemittelgehalt ausgeführt werden."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Nachhaltigkeit:",
+            "Der Stuhl muss vollständig zerlegbar sein, um die Wiederverwendung oder das Recycling der Materialien zu erleichtern.",
+            "Das Unternehmen muss nachweisen können, dass die verwendeten Materialien auf schädliche Substanzen geprüft sind.",
+            "Es muss sichergestellt sein, dass der Stuhl unter fairen Arbeitsbedingungen gefertigt wurde."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Service:",
+            "Der Hersteller muss eine Ersatzteilverfügbarkeit für mindestens zehn Jahre garantieren.",
+            "Ersatzteile sollen kostengünstig und schnell lieferbar sein.",
+            "Optional soll ein Reparaturservice angeboten werden, um die Lebensdauer des Produkts zu verlängern."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Untergestell:",
+            "Das Untergestell muss ein Fünfsternuntergestell aus Polyamid in Schwarz sein.",
+            "Es soll über Doppellaufrollen nach EN12529 verfügen, die serienmäßig lastabhängig gebremst sind.",
+            "Die Rollen sollen je nach Bodenbelag in einer harten (für Teppichboden) oder weichen (für harte Böden) Ausführung wählbar sein, mit einem Rollendurchmesser von mindestens 6 cm."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Bezugsstoff:",
+            "Der Sitzbezug soll aus einem gewebten Material aus 100 % Polyester bestehen und in mindestens 30 Standardfarben erhältlich sein.",
+            "Der Rückenbezug soll aus einem dezenten, atmungsaktiven Netzgewebe mit weicher Haptik bestehen, das den Körper einsinken lässt und sich der Körperkontur anpasst.",
+            "Der Rückenbezug muss in mindestens drei Farben erhältlich sein und eine hohe Luftdurchlässigkeit sowie eine Scheuerfestigkeit von mindestens 80.000 Touren haben.",
+            "Der Bezug muss eine Reibechtheit (trocken/nass) von mindestens 4-5, eine Lichtechtheit Typ 6 und ein Pilling von mindestens 4-5 erfüllen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Service und Nachhaltigkeit:",
+            "Das Unternehmen muss über ein nach DIN EN ISO 9001 und DIN EN ISO 14001 zertifiziertes Qualitäts- und Umweltmanagementsystem verfügen.",
+            "Ein Nachhaltigkeitsbericht des Unternehmens muss vorgelegt werden können.",
+            "Eine hohe Service-Freundlichkeit muss gewährleistet sein: Armlehnen müssen werkzeuglos austauschbar sein.",
+            "Der Sitzbezug soll einfach abgenommen und ausgetauscht werden können, und die Rückenlehne soll ohne Spezialwerkzeug austauschbar sein.",
+            "Der Stuhl muss in seiner ökologischsten Ausführung mindestens 34 % Rezyklat enthalten und zu mindestens 90 % recycelt werden können.",
+            "Der Stuhl soll über die Zertifikate GREENGUARD und Blauer Engel verfügen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Allgemein:",
+            "Das Unternehmen muss über ein nach DIN EN 527-1/08.11 und DIN EN 527-2/07.19 zertifiziertes Qualitäts- und Umweltmanagementsystem verfügen.",
+            "Gefordert wird ein Tischsystem, das Bestandteil einer Produktfamilie mit Einzeltischen, Bench- und Besprechungstischen ist und serienmäßig lieferbar ist.",
+            "Die Tische sollen stufenlos elektrisch für Sitz- und Stehhöhen verstellbar sein (ca. 65 cm bis 125 cm) und auch als starre Variante verfügbar sein.",
+            "Ein werkzeugloser Umbau von Einzeltischen zu einer Bench muss möglich sein, ebenso wie die Integration des Tischbeins eines elektromotorisch höhenverstellbaren Tisches in den Unterschrank eines Stauraumsystems.",
+            "Zusatzelemente zur Arbeitsplatzgestaltung sollen verfügbar sein."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Tischplatten:",
+            "Sowohl fest montierte Tischplatten als auch Tischplatten mit Schiebeplatte müssen standardmäßig verfügbar sein."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Höhen:",
+            "Für die Tische sollen folgende Höhenausführungen verfügbar sein:",
+            "- Ca. 74 cm für feste Tische.",
+            "- Ca. 65 cm – 125 cm für elektromotorische Schreibtische."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Seitenrahmen:",
+            "Die Liftsäule des Seitenrahmens soll einen rechteckigen Querschnitt aufweisen und zentriert zur Plattentiefe positioniert sein (T-Fuß), in 'Upside-Down'-Bauweise als Doppelteleskop."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Technische Details:",
+            "Die Tischplatten müssen in Melaminoberflächen in zahlreichen Farben erhältlich sein.",
+            "Die Tischplatten bestehen aus 3-Schicht-Güte-Feinspanplatte Typ MFB (DIN EN 14322 Klasse E1) mit melaminharzbeschichteter Oberfläche.",
+            "Das Gestell besteht aus pulverbeschichtetem Stahl, und Säule sowie Fußausleger sind in mindestens 20 Farben erhältlich.",
+            "Innere und äußere Hubsäule sollten idealerweise in unterschiedlichen Farben gestaltbar sein.",
+            "Die Kunststoffgleiter müssen anthrazitgrau sein.",
+            "Alle Stahlbauteile und Tischanbauten müssen pulverbeschichtet und in verschiedenen Farben erhältlich sein."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Konstruktion:",
+            "Die Tischplatten sollen rechteckig und in zahlreichen Größen verfügbar sein.",
+            "Die Tischplatten müssen mit Quertraversen verschraubt sein.",
+            "Liftsäule, Fußausleger und Quertraverse müssen mittels innenliegender Gewinde und Schrauben miteinander verbunden sein.",
+            "Elektrische Komponenten dürfen nicht sichtbar sein.",
+            "Der Kabelkanal soll unter der Tischplatte angebracht sein.",
+            "Eine vertikale Kabelführung (Kabelkette oder Kabelschacht) muss vorhanden sein."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Tischplatte:",
+            "Tischplatten sollen ca. 25 mm stark sein und einen Eckradius von ca. 3 mm haben.",
+            "Die Kante soll aus Polypropylen (PP) mit 3 mm Stärke und mittels Laserschmelztechnologie aufgebracht sein, um Kleberand und Wassereintritt zu vermeiden.",
+            "Die Tischplatte mit Schiebeplattenfunktion soll auf mindestens 2 Kragarmen aus Stahlrohren ruhen, die an der Quertraverse befestigt sind."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Gestell:",
+            "Seitenrahmen und Querträger bestehen aus Stahlrohren mit Epoxydharz-Beschichtung.",
+            "Die Hubsäulen sind dreifach teleskopierbar und bieten eine elektromotorische Höhenverstellung von ca. 650 bis 1250 mm, mit integrierten Motoren in den Präzisionsrohrsäulen.",
+            "Der Kabelkanal muss eine Abmessung von mindestens T220 x H90 mm haben, aus Stahlblech mit Pulverbeschichtung, und Zugentlastung für die Verkabelung bieten.",
+            "Die Fußausleger sind mit Verstellgleitern ausgestattet, um Bodenunebenheiten bis zu 10 mm auszugleichen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Funktionen:",
+            "Eine stufenlose, elektromotorische Höhenverstellung ist über ein Bedienpaneel mit Auf- und Ab-Tasten steuerbar und kann links oder rechts an der Tischplatte angebracht werden.",
+            "Ein Kollisionssensor als Auffahrschutz ist integriert.",
+            "Die Schiebeplatte ermöglicht einen einfachen Zugang zum Kabelkanal von oben.",
+            "Der Tisch muss eine Nutzlast von bis zu 75 kg tragen.",
+            "Im Standby-Betrieb darf die Stromaufnahme maximal 0,2 W betragen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Zubehör und optionale Ausstattung:",
+            "Kabeldosen (einfach oder zweifach) sollen möglich sein, in runder (ca. 80 mm) oder rechteckiger Form (B 210 x T 95 mm) für Kabelführungen.",
+            "Ein vertikaler Kabelschacht aus pulverbeschichtetem Stahl muss verfügbar sein und soll magnetisch an der Fuß-Innenseite befestigt werden.",
+            "Vertikale Kabelführungen zum integrierten Stauraum sind ebenfalls möglich."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Optionen:",
+            "Ein CPU-Halter aus pulverbeschichtetem Stahl muss an Plattenträger und Quertraverse schraubbar sein, links oder rechts positionierbar und mit einem Befestigungsgurt versehen.",
+            "Eine Knieraumblende, Taschenablage und Seitenblende sind mit Adaptern befestigbar.",
+            "Bei Schiebeplatten ist der Sichtschutz sowie die akustische Dämpfung über Adapter möglich."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Elektrifizierung:",
+            "Der Stuhl soll über eine Synchronmechanik mit individueller Anpassung der Rückenlehnen-Gegenkraft verfügen.",
+            "Zuleitungskabel (3-5 m) und Verbindungskabel (1-5 m) müssen angeboten werden.",
+            "Die Elektrifizierung muss auch bei bestehenden Tischen nachrüstbar sein."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Garantie:",
+            "Für strukturelle Komponenten, die elektromotorische Höhenverstellung, mechanische Teile und Gleiter muss eine Garantie von mindestens 12 Jahren gelten, und für Melamin-Oberflächen mindestens 5 Jahre.",
+            "Das Produkt muss für 5 Jahre nach Erstbestellung lieferbar sein."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Produktzertifikate:",
+            "Erforderliche Zertifikate umfassen GS Geprüfte Sicherheit, CE, Indoor Advantage Gold, Blauer Engel RAL-UZ 38 und EPD.",
+            "Bescheinigungen sind beizufügen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Werkszertifikate:",
+            "Die Produkte müssen in nach ISO 9001, ISO 14001 und ISO 45001 zertifizierten Werken hergestellt werden.",
+            "Bescheinigungen sind beizufügen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Material-Zertifikate:",
+            "Holzwerkstoffe müssen nach PEFC oder FSC zertifiziert sein.",
+            "Materialien dürfen keine gesundheitsschädlichen Stoffe freisetzen und dürfen keine VOC oder Schwermetalle enthalten."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Verpackungsmaterial:",
+            "Verpackungen müssen umweltschonend, sortenrein trennbar und recycelbar sein, vorzugsweise aus Karton und Polyethylen (PE)."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Montage:",
+            "Falls erforderlich, muss eine Montageanleitung oder ein Montagevideo vor Lieferung zur Verfügung gestellt werden."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Dokumentation:",
+            "Bedienungsanleitung oder Bedienungsvideo ist auf Anfrage verfügbar.",
+            "Produktbeschreibungen müssen mindestens die Funktion, ein Bild des Produktes, Abmessungen und verfügbare Optionen umfassen und dem Angebot beigefügt werden."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Textilelement Wand:",
+            "Auszuführen als ein fertiges Monoblock-Modul als Wand-Wand- bzw. Eckelement, das einfach zu transportieren und umzusetzen ist.",
+            "Farbe nach Wahl des AG gemäß Herstellerfarbkarte.",
+            "Höhe der Elemente ca. 2270 mm, Wandstärke ca. 55 mm, Wandbreite gemäß beiliegender Planung.",
+            "Schalldämmung mind. Rw = 39 dB (Element) und Schallabsorption mind. αw = 0,50 nach ISO 11654 (je nach Stofftyp), akustisch wirksam sowohl innen als auch außen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Textilelement Decke:",
+            "Auszuführen als ein fertiges Mono-Modul, das einfach zu transportieren und umzusetzen ist.",
+            "Farbe nach Wahl des AG gemäß Herstellerfarbkarte.",
+            "Länge der Elemente variiert je nach Raumbreite.",
+            "Wandstärke ca. 55 mm, Außenmaß ca. 1310 x 2110 mm.",
+            "Schalldämmung mind. Rw = 39 dB (Element) und Schallabsorption mind. αw = 0,80 nach ISO 11654 (je nach Stofftyp), innen akustisch wirksam."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Glaswandelemente:",
+            "Einscheibenverglasung aus transparentem VSG-Glas (2x4 mm) mit schwarzer Glasverklebung.",
+            "Höhe ca. 2270 mm, Wandstärke ca. 55 mm, Elementbreite ca. 500/1200 mm.",
+            "Schalldämmung mind. Rw = 38 dB (Element)."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Türelement (Glastür inkl. Türzarge):",
+            "Aus transparentem ESG Glas, 8 mm dick, mit Absenkdichtung.",
+            "Höhe ca. 2270 mm, Elementstärke ca. 55 mm, Elementbreite ca. 1000 mm, Durchgangsbreite ca. 890 mm.",
+            "Anschlag nach DIN bzw. Planvorgaben.",
+            "Schalldämmung mind. Rw = 32 dB (Element)."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "LED Lichtelemente oder -leisten:",
+            "Integration stufenlos dimmbar über Funktaster.",
+            "LED Profil 3.000 K, Leistung ca. 14,4 W, Farbtemperatur 3.000 Kelvin."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Lüftungselement:",
+            "Integrierte geräuscharme Umluftlüftung, stufenlos regulierbar über Funkschalter.",
+            "Luftaustausch ca. 100 m³/h für 16-fachen Luftwechsel pro Stunde, gleichmäßige Luftein- und -auslassverteilung über streifenförmige Auslässe in den Deckenelementen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Steuereinheit:",
+            "Elektrische Schaltzentrale für die dimmbare LED-Grundbeleuchtung und Umluftlüftung, die die elektrische Versorgung der Räume sicherstellt."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Elektrifizierung im Raum:",
+            "Innenraum über eine im Sockel integrierte Steckdoseneinheit elektrifiziert, Bestückung nach Wunsch des AG möglich."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Stahlteile:",
+            "Alle sichtbaren Stahl- bzw. Aluminiumteile wie Sockelprofile, Technikbandraster, Türrahmen und sichtbare Rahmen von Glaselementen sind in schwarz pulverbeschichtet auszuführen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Integration von Monitoren:",
+            "Möglich durch Stahlprofile zur Applikation von TV-Screens, um Monitore bis zu einem Gewicht von ca. 40 kg zu montieren."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Beschreibbare Oberflächen:",
+            "Einzelne Wandelemente des Raumes sind mit beschreibbaren, magnetischen Whiteboards ausgestattet, die als vorgehängte Elemente angebracht werden können."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Allgemein:",
+            "Der Stuhl besteht aus einem monolithischen Block aus umweltfreundlichem, recycelbarem Polypropylen.",
+            "Die Form des Stuhls ist innovativ und multifunktional, um Neugierde und Freude auf die Benutzung zu kommunizieren.",
+            "Der Stuhl ist für den Einsatz im Freien geeignet, robust, leicht, stapelbar bis zu 10 Stück und leicht zu reinigen.",
+            "Einsatzbereich: Wechselnde Benutzer mit kurzer Nutzungsdauer in Kreativbereichen von Büros.",
+            "In verschiedenen Farben verfügbar."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Sitz:",
+            "Zwei Sitzebenen ermöglichen multifunktionales Sitzen: Stehsitzend auf Ebene 2 oder sitzend auf Ebene 1 mit Ablagemöglichkeit für Laptop oder Unterlagen."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Service und Nachhaltigkeit:",
+            "Das Unternehmen muss über ein nach DIN EN ISO 9001 und DIN EN ISO 14001 zertifiziertes Qualitäts- und Umweltmanagementsystem verfügen und einen Nachhaltigkeitsbericht vorlegen können."
+        ]
+    },
+    {
+        "role": "system",
+        "content": [
+            "Zertifikate:",
+            "Der Stuhl muss das GS-Zeichen für geprüfte Sicherheit tragen, das BIFMA-Zertifikat besitzen, das „GREENGUARD Indoor Air Quality Certified“ Siegel aufweisen und die Industrienorm DIN EN 1021 Teil 1 und Teil 2 erfüllen."
+        ]
+    }
+]
+
